@@ -1,7 +1,9 @@
 img {
-	max-height: 95%;
+	/*max-height: 95%;*/
 	max-width:95%;
 	border-radius:10px;
+	width:auto;
+	margin-left: 8px;
 }
 
 img.anyimg {
@@ -27,6 +29,11 @@ sub {
 /*div.heightMax {
 	height: 220px;
 
+}*/
+
+/*.mainImg {
+	display:flex;
+	justify-content: center;
 }*/
 
 .degrees {
