@@ -1,0 +1,52 @@
+img {
+	max-height: 95%;
+	max-width:95%;
+	border-radius:10px;
+}
+
+img.anyimg {
+	width:100%;
+	border-radius:10px;
+}
+
+.thumbnail>img {
+	max-height: 200px;
+	max-width:250px;
+	border-radius:10px;
+
+}
+
+sub {
+	color:yellow;
+}
+
+/*div.thumbnail {
+	max-width: 250px;
+}*/
+
+/*div.heightMax {
+	height: 220px;
+
+}*/
+
+.degrees {
+	transform: rotate(180deg);
+}
+
+#fixedheader {
+	position: fixed;
+	background-color: #2b3e50;
+	z-index:1;
+	width:100%;
+}
+
+#contentarea {
+	position:relative;
+	padding-top: 140px;
+}
+
+#quotePadding {
+	padding-left:10px;
+	padding-right: 10px;
+}
+
