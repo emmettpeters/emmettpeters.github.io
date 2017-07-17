@@ -22,20 +22,6 @@ sub {
 	color:yellow;
 }
 
-/*div.thumbnail {
-	max-width: 250px;
-}*/
-
-/*div.heightMax {
-	height: 220px;
-
-}*/
-
-/*.mainImg {
-	display:flex;
-	justify-content: center;
-}*/
-
 .degrees {
 	transform: rotate(180deg);
 }
@@ -56,4 +42,3 @@ sub {
 	padding-left:10px;
 	padding-right: 10px;
 }
-
