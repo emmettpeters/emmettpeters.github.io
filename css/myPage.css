@@ -18,6 +18,10 @@ img.anyimg {
 
 }
 
+ul, h2{
+	color:lightgreen;
+}
+
 sub {
 	color:yellow;
 }
