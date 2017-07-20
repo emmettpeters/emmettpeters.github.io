@@ -1,38 +1,37 @@
-.btnShadow {
+.btnClear {
 	margin-right: 1em;
 	height:4em;
 	margin-top: .5em;
 	padding:auto;
-	background-color: #0A5DA2;
+	background-color: rgba(0,0,0,0);
 	color:white;
-	box-shadow: 2px 2px 2px #074980;
 	text-shadow: 2px 1px #002442;
+	border-width:0px;
 }
 
-.btnShadow:hover {
+.btnClear:hover {
 	text-shadow: 0px 0px;
+	color:#0A5DA2;
 }
 
 #header {
 	min-height:6em;
-	width:100%;
 	display: flex;
 	justify-content: space-between;
-	background-color: #0A5DA2;
+	background-color: rgb(89,172,217);
 }
 
 #links {
-	height:5em;
+	height:6em;
 	width:100%;
 	display:flex;
 	justify-content:center;
-	background-color: #4A89BC;
 }
 
 #dropdown {
 	height:18em;
 	width:100%;
-	background-color: #0A5DA2;
+	background-color: rgb(89,172,217)
 }
 
 #content {
@@ -40,7 +39,7 @@
 	width:100%;
 	display:flex;
 	justify-content: center;
-	background-color: #00AB66;
+	background-color: #09402a;
 }
 
 #contentSpacer {
