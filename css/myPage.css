@@ -17,13 +17,20 @@ img.anyimg {
 	border-radius:10px;
 
 }
+.thumbnails {
+	height:32em;
+}
 
-ul, h2{
+ul, h2 {
 	color:lightgreen;
 }
 
 sub {
 	color:yellow;
+}
+
+.portButtons {
+	vertical-align: bottom;
 }
 
 .degrees {
@@ -48,3 +55,5 @@ sub {
 	padding-left:10px;
 	padding-right: 10px;
 }
+
+
