@@ -28,6 +28,8 @@ sub {
 
 .degrees {
 	transform: rotate(180deg);
+	width:50%;
+	margin-left:25%;
 }
 
 #fixedheader {
